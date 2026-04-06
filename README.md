@@ -3,3 +3,4 @@ This repository is related to the assignement given by the teacher of sensors an
 This is the first iteration in github
 updated README
 first edit in the branch created
+I have completed the GitHub introduction course and practiced the basic workflow.
